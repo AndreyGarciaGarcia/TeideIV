@@ -1,4 +1,4 @@
-package teideiv.vista;
+package teideiv.Interfaz;
 
 public class Main {
 
