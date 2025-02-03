@@ -1,4 +1,4 @@
-package teideiv.ejercicios;
+package Condicionales;
 
 public class EjerciciosCondicionales {
 

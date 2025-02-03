@@ -1,4 +1,4 @@
-package teideiv.ejercicios;
+package POO;
 
 public class EjerciciosPOO {
 

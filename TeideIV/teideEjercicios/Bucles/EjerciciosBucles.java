@@ -1,4 +1,4 @@
-package teideiv.ejercicios;
+package Bucles;
 
 public class EjerciciosBucles {
 

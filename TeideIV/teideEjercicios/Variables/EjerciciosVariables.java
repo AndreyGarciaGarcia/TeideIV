@@ -1,4 +1,4 @@
-package teideiv.ejercicios;
+package Variables;
 
 public class EjerciciosVariables {
 
